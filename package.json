@@ -1,0 +1,19 @@
+{
+  "name": "responsive-design-with-bootstrap",
+  "version": "1.0.0",
+  "description": "Repository for learning Bootstrap throw freeCodeCamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bootstrap",
+    "freeCodeCamp"
+  ],
+  "author": "Thuan (Timon) T. DINH",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
